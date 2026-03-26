@@ -142,7 +142,7 @@ POST /api/events
 
 ---
 
-## 📦 Technologies Used
+## Technologies Used
 
 - Java 21
 - Spring Boot
@@ -150,3 +150,43 @@ POST /api/events
 - MySQL
 - Maven
 - HTML / CSS / JavaScript
+
+## Project Structure
+
+```
+test_task_Sportradar/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/com/sport_calendar/
+│   │   │   │
+│   │   │   ├── controller/
+│   │   │   │   └── EventController.java
+│   │   │   │
+│   │   │   ├── Service/
+│   │   │   │   └── EventService.java
+│   │   │   │
+│   │   │   ├── repository/
+│   │   │   │   └── EventRepository.java
+│   │   │   │
+│   │   │   ├── entity/
+│   │   │   │   ├── Event.java
+│   │   │   │   ├── Team.java
+│   │   │   │   ├── Sport.java
+│   │   │   │   └── Competition.java
+│   │   │   │
+│   │   │   └── SportCalendarApplication.java
+│   │   │
+│   │   └──  resources/
+│   │        ├── templates/
+│   │        │   └── index.html
+│   │        └──  application.properties
+│   │
+│   └── test/
+│       └── java/com/sport_calendar/
+│           └── SportCalendarApplicationTests.java
+│
+├── pom.xml
+├── README.md
+└── .gitignore
+```
