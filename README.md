@@ -1,5 +1,16 @@
 # Sports Event Calendar (test coding task for Sportradar)
-```
+
+<img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk" alt="Java" />
+<img src="https://img.shields.io/badge/Maven-4.0.0-C71A36?style=for-the-badge&logo=apachemaven" alt="Maven" />
+<img src="https://img.shields.io/badge/Spring_Boot-3.5.13-green?style=for-the-badge&logo=springboot" alt="Spring Boot 3" />
+
+<img src="https://img.shields.io/badge/MySQL-8-blue?style=for-the-badge&logo=mysql" alt="MySQL" />
+
+<img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript" />
+
+
 This project is a simple **Sports Event Calendar** application built with:
 - **Backend:** Java + Spring Boot
 - **Database:** MySQL
